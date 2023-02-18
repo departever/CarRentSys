@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CarRentSys:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CarRentSys_jar</output-path>
+    <root id="archive" name="CarRentSys.jar">
+      <element id="module-output" name="CarRentSys" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gson-2.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
